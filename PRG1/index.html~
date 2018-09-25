@@ -1,0 +1,9 @@
+<html>
+	<head>
+	<body>
+		<form action="process_get" method="get">
+		USN:<input type="text" name="usn"/><br/>
+		Name:<input type="text" name="name"/><br/>
+	</body>
+</html>
+
